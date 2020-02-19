@@ -1,0 +1,6 @@
+[submodule "vue_front"]
+	path = vue_front
+	url = https://github.com/woodchuckchoi/vue_front
+[submodule "landingproject"]
+	path = landingproject
+	url = https://github.com/suhyeoney/landingproject
